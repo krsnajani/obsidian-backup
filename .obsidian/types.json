@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "noteType": "multitext",
+    "project": "multitext",
+    "projectStatus": "multitext",
+    "dateCreated": "text"
+  }
+}

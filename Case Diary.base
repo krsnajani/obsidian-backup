@@ -1,0 +1,37 @@
+views:
+  - type: table
+    name: Cases
+    filters:
+      and:
+        - file.hasTag("case_law")
+    order:
+      - title
+      - citation
+      - authors
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.title: 446
+      note.citation: 227
+      note.authors: 218
+  - type: table
+    name: Tax Law
+    filters:
+      and:
+        - file.hasTag("case_law")
+        - file.hasTag("tax_law")
+    order:
+      - title
+      - citation
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 130
+    columnSize:
+      note.title: 664
+      note.citation: 355
+      file.name: 462

@@ -1,0 +1,14 @@
+---
+aliases:
+  - 
+tags: []
+authors:
+  - Justice Hima Kohli
+  - Justice Ahsanuddin Amanullah
+year: 2023
+doi: ""
+zotero: zotero://select/library/items/Q556NQKL
+bibliography:
+  - lib
+pdf: /Users/krishnajani/Library/CloudStorage/OneDrive-Personal/Attachments/Justice Hima Kohli and Justice Ahsanuddin Amanullah - 2023 - Vardan Associates Pvt. Ltd. v. Assistant Commissioner of State Tax Central Section & Ors.pdf
+---

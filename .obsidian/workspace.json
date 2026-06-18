@@ -1,0 +1,343 @@
+{
+  "main": {
+    "id": "67c8fab16f5b11a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbcfe188ba1f9693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7050580d06a09aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMP Dossier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AMP Dossier"
+            }
+          },
+          {
+            "id": "25b414b2f052fa9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMP Dossier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AMP Dossier"
+            }
+          },
+          {
+            "id": "9d4bd49dd726909c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMP Dossier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AMP Dossier"
+            }
+          },
+          {
+            "id": "b58bac84f60b08a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/16-06-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16-06-2026"
+            }
+          },
+          {
+            "id": "4339667ef2a8d359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/@justicesanjivkhannaSonyEricssonMobile2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@justicesanjivkhannaSonyEricssonMobile2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf7b50fc0573c016",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c50375b81517a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8463b7ad14f19f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91e9f7b484aac6ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3cfc6fdd12c4242",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e6c63ec8bb256c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0d78690883d614",
+        "type": "tabs",
+        "dimension": 69.6078431372549,
+        "children": [
+          {
+            "id": "79b43531a3993c8d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AMP Dossier.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
+            }
+          },
+          {
+            "id": "885e230d5a1fbcdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/Scheme of the Hinduja Demerger.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3e15ace5698d366b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Singapore.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d39320505f7500ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5478b7363d07662",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Singapore.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c6e606b76d7d9f3d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "pinned": true,
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d85e961d915d165e",
+        "type": "tabs",
+        "dimension": 30.392156862745097,
+        "children": [
+          {
+            "id": "4d7b63d70c08cfb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.63671875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9d4bd49dd726909c",
+  "lastOpenFiles": [
+    "Literature/rmapi.zip",
+    "Whether GAAR can recharacterize an NCLT approved scheme of demerger.md",
+    "Literature/@justicemoritzLibertyGlobalInc2026.md",
+    "Literature/@zotero-item-5938.md",
+    "Literature/@justicer.mahadevanAuthorityAdvanceRulings2026.md",
+    "Literature/@mahadevanTIGERGLOBALINTERNATIONAL.md",
+    "Literature/@justicesanjivkhannaSonyEricssonMobile2025.md",
+    "AMP Dossier.md",
+    "Literature/@zhouTales2025Angeles2025a.md",
+    "Literature/@zeideExpandingParadigmGenerative2025.md",
+    "Literature/@zouNavigatingChinasRegulatory2025.md",
+    "Literature/@zhouTales2025Angeles2025.md",
+    "Literature/@zhongQuantumComputationalAdvantage2020.md",
+    "templates/new.md",
+    "The Singapore Brief.md",
+    "Case Diary.base",
+    "Daily/16-06-2026.md",
+    "Daily/15-06-2026.md",
+    "Literature/@Updated_judgment_case2.md",
+    "Canvas/Scheme of the Hinduja Demerger.canvas",
+    "slump sale.md",
+    "demerger.md",
+    "Literature/@justiceb.pcolabawallaHindujaGlobalSolutions2025.md",
+    "Return of income is not be invalid on mistake defect or omission - Section 292B IT Act.md",
+    "Interest under s 220(2) must be paid from the date of original demand notice.md",
+    "There must be a political forum for international tax policy making.md",
+    "There is no embargo on the TPO's power to initiate fresh search for comparables.md",
+    "Literature/@r.ptolaniCanonIndiaDCIT2013.md",
+    "Literature/#@r.ptolaniCanonIndiaDCIT2013.md#",
+    "The Singapore Brief.pdf",
+    "templates/lib.json",
+    "~/Documents/The Singapore Brief.pdf",
+    "Literature",
+    "When does the liability to pay interest arise u/s 220(2) in case of a rectification order u",
+    "When does the liability to pay interest arise u",
+    "toPdfViaTempFile63725-0.typ",
+    "toPdfViaTempFile63725-1.pdf",
+    "Canvas/Quantum Computing.canvas",
+    "img/Pasted image 20250620070513.png"
+  ]
+}

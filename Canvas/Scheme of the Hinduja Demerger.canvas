@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"8383e83003c93917","x":-238,"y":520,"width":768,"height":341,"type":"group","label":"T-1"},
+		{"id":"eba6a6edc0a7ee19","x":-238,"y":900,"width":768,"height":307,"type":"group","label":"T-2"},
+		{"id":"870b25d18502ba3e","x":-238,"y":1260,"width":768,"height":300,"type":"group","label":"T-3"},
+		{"id":"cc7589cda86e26e2","x":260,"y":1460,"width":250,"height":80,"type":"text","text":"Hinduja Global Solutions"},
+		{"id":"db6c4fe977545930","x":-218,"y":1470,"width":250,"height":60,"type":"text","text":"NEXTDIGITAL Ltd"},
+		{"id":"ce7631d672f94fa0","x":-9,"y":1280,"width":289,"height":140,"type":"text","text":"It was a tax neutral demeger and UL-AD was transferred to HGS"},
+		{"id":"1e04caae10b23f56","x":-218,"y":758,"width":246,"height":83,"type":"text","text":"IndusInd Media and Communication Ltd."},
+		{"id":"3e009cb513a12fc1","x":260,"y":770,"width":250,"height":60,"type":"text","text":"NEXTDIGITAL Ltd."},
+		{"id":"0dab994286ff637d","x":-9,"y":540,"width":289,"height":160,"type":"text","text":"This transaction is tax neutral, and AL-UD of IMCL is transferred to NDL"},
+		{"id":"e8ba3d8a1ee1d837","x":-218,"y":1100,"width":230,"height":87,"type":"text","text":"Hinduja Global Solutions"},
+		{"id":"3b01152cfc75f03e","x":260,"y":1114,"width":250,"height":60,"type":"text","text":"Sagility India Ltd."},
+		{"id":"9c3961fd3d8e9595","x":-9,"y":920,"width":289,"height":120,"type":"text","text":"This transaction results in taxable Cap Gains for HGS amt. ₹3000 crore"},
+		{"id":"8328240242141848","x":-66,"y":1600,"width":403,"height":159,"type":"text","text":"Resultant HGS set off the ₹ 1200 cr. UL-AD from NDL DMC Vertical against the ₹ 3000 cr gains made on T-2"}
+	],
+	"edges":[
+		{"id":"3e0fb98654810653","fromNode":"1e04caae10b23f56","fromSide":"right","toNode":"3e009cb513a12fc1","toSide":"left","label":"DMC\nVertical"},
+		{"id":"0954ffbb2bb016e3","fromNode":"e8ba3d8a1ee1d837","fromSide":"right","toNode":"3b01152cfc75f03e","toSide":"left","label":"Healthcare\nVertical"},
+		{"id":"74e1ac29573fa22c","fromNode":"db6c4fe977545930","fromSide":"right","toNode":"cc7589cda86e26e2","toSide":"left","label":"DMC\nVertical"}
+	]
+}

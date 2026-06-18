@@ -1,0 +1,21 @@
+---
+aliases:
+  - Review of Generative AI Methods in Cybersecurity
+tags: []
+title: Review of Generative AI Methods in Cybersecurity
+authors:
+  - Yagmur Yigit
+  - William J. Buchanan
+  - Madjid G. Tehrani
+  - Leandros Maglaras
+year: 2024
+doi: https://doi.org/10.48550/arXiv.2403.08701
+zotero: zotero://select/library/items/S2MS265K
+bibliography:
+  - lib
+pdf: /home/kjani/Downloads/Philosophie/Yigit et al. - 2024 - Review of Generative AI Methods in Cybersecurity.pdf
+---
+
+<!-- START_ABSTRACT -->
+Over the last decade, Artificial Intelligence (AI) has become increasingly popular, especially with the use of chatbots such as ChatGPT, Google’s Gemini, and DALL-E. With this rise, large language models (LLMs) and Generative AI (GenAI) have also become more prevalent in everyday use. These advancements strengthen cybersecurity’s defensive posture and open up new attack avenues for adversaries as well. This paper provides a comprehensive overview of the current state-of-the-art deployments of GenAI, covering assaults, jailbreaking, and applications of prompt injection and reverse psychology. This paper also provides the various applications of GenAI in cybercrimes, such as automated hacking, phishing emails, social engineering, reverse cryptography, creating attack payloads, and creating malware. GenAI can significantly improve the automation of defensive cyber security processes through strategies such as dataset construction, safe code development, threat intelligence, defensive measures, reporting, and cyberattack detection. In this study, we suggest that future research should focus on developing robust ethical norms and innovative defense mechanisms to address the current issues that GenAI creates and also further to encourage an impartial approach to its future application in cybersecurity. Moreover, we underscore the importance of interdisciplinary approaches further to bridge the gap between scientific developments and ethical considerations.
+<!-- END_ABSTRACT -->

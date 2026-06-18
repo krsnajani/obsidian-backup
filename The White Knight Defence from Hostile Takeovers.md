@@ -1,0 +1,3 @@
+From : [[A "Pac-Man" defence is used to prevent hostile takeovers]]
+
+The idea is that a potential hostile takeover can be evaded by reaching out to a friendly investor to swoop in and acquire the target company and therefor blocking the hostile acquirer from taking over the company. In the case cited in the previous section, Volkswagen was able to subsequently become a "White Knight" for Porche when in the 2008 it faced various financial difficulties and Volkswagen acquired Porche to prevent any other hostile acquirer from exploiting the financial distress to their advantage. 

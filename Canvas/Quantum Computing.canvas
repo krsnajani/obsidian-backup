@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"305bdbdd25b6660e","type":"group","x":-840,"y":300,"width":1540,"height":1360,"color":"6","label":"The Why"},
+		{"id":"d4075dc41568673b","type":"text","text":"## Why - QC is Important for Law Makers today","x":-218,"y":340,"width":288,"height":116,"color":"4"},
+		{"id":"ac283615ee5fbed4","type":"text","text":"### Quantum Cryptanalysis\n\nOne of the key concerns with QC is that it allows for cryptanalysis. This puts the right to privacy is serious danger. \n\nMy thesis is that the improved computing capacity available with QC will **exacerbate the existing legal and policy pathologies**.\n\nIt is not the disease, put a catastrophic accelerant for a pre-existing condition.","x":-274,"y":500,"width":400,"height":421,"color":"3"},
+		{"id":"85a933fc380cbdd9","type":"text","text":"### Reasons for Policy Neglect","x":-480,"y":980,"width":223,"height":90},
+		{"id":"c14123a5f52d59ca","type":"text","text":"### Lacking Proof-of-Work\n\nThe key issue making quantum-policy is the lack of any real-world models that can demonstrate the material possibilities available with QC.","x":-329,"y":1208,"width":329,"height":250},
+		{"id":"843c3a733ebb93b2","type":"text","text":"### A Timeline\n\nQuantum Computing is not a thing of the future. Though inaction could be explained by the lack of a clear timeline. Ref: [[The timeline question with QC]]","x":-701,"y":1208,"width":314,"height":250},
+		{"id":"7e2803cd6e8970ba","type":"text","text":"### The Catch\nQC as a technology changes our current paradigm in a very *nuanced* manner.  \n\nThe **catch** with QC is that it does not change *what* we do with computers, rather **how** we do it. \n\nThis means that once QC becomes sustainable in terms of its supply chain and error correction technology, we can expect **quick mass industry adoption** making it an important facet for law makers","x":-760,"y":500,"width":431,"height":421,"color":"3"},
+		{"id":"77de8ebc88f57f0e","type":"file","file":"Accelerator Thesis on Privacy and Quantum Computing.md","x":-1380,"y":670,"width":400,"height":400},
+		{"id":"2f87df1dbc6b12ba","type":"text","text":"### Reformulating Privacy\n\nThe post-quantum future will require a reformulation of what is privacy. \n\nThe hesitancy to hold the State accountable will be highly problematic in the long-run. A new post-quantum **due process of privacy** will need to be formulated. \n\nThe focus of this paper would thus also be to put the foundations of this novel argument in to place.  Though I will not flesh out the entire scope of this **due process** in the present paper\n\n","x":180,"y":500,"width":440,"height":421,"color":"3"},
+		{"id":"c583ba3a0faf33bd","type":"text","text":"### Focus on ..\n\n- The **Why Now?** Argument\n\t- What is it about this particular time frame.\n\t- Where are we in the quantum timeline\n\t- How is the quantum threat a different threat\n\t- What real forms of privacy issues are we going to have to deal with in the future. \n- The **Accelerator Thesis**\n\t- How does that change the paradigm of thinking about quantum computing\n\t- What advantages does it have over existing models. (Lit Review)","x":126,"y":1073,"width":465,"height":385,"color":"4"},
+		{"id":"1d22282ca8821551","type":"text","text":"# Quantum Computing and its Legal Dimensions - India","x":-238,"y":80,"width":328,"height":80},
+		{"id":"c718955737d5ca71","type":"text","text":"## The Indian Problem","x":241,"y":95,"width":236,"height":50}
+	],
+	"edges":[
+		{"id":"4b6bb094a8d7c641","fromNode":"7e2803cd6e8970ba","fromSide":"right","toNode":"ac283615ee5fbed4","toSide":"left"},
+		{"id":"84c1c1dea1e418d2","fromNode":"ac283615ee5fbed4","fromSide":"right","toNode":"2f87df1dbc6b12ba","toSide":"left"},
+		{"id":"89c191cbc0e6db9f","fromNode":"1d22282ca8821551","fromSide":"bottom","toNode":"305bdbdd25b6660e","toSide":"top"},
+		{"id":"ca736895ab08c35d","fromNode":"85a933fc380cbdd9","fromSide":"bottom","toNode":"843c3a733ebb93b2","toSide":"top"},
+		{"id":"084b0f060458b9b2","fromNode":"85a933fc380cbdd9","fromSide":"bottom","toNode":"c14123a5f52d59ca","toSide":"top"},
+		{"id":"5c7c71a1d6f6beba","fromNode":"1d22282ca8821551","fromSide":"right","toNode":"c718955737d5ca71","toSide":"left"}
+	]
+}

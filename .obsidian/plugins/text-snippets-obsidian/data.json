@@ -1,0 +1,20 @@
+{
+  "snippets_file": "as : assessee\nasm : assessment\npt : Petitioner\npl : Plaintiff\ndf : Defendent\nrs : Respondent\nss : sub-section",
+  "snippets": [
+    "as : assessee",
+    "asm : assessment",
+    "pt : Petitioner",
+    "pl : Plaintiff",
+    "df : Defendent",
+    "rs : Respondent",
+    "ss : sub-section"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

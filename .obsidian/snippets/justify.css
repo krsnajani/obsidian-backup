@@ -1,0 +1,10 @@
+
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+body {
+  --file-line-width:1000px
+}

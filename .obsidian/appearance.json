@@ -1,0 +1,13 @@
+{
+  "cssTheme": "",
+  "baseFontSize": 24,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "justify"
+  ],
+  "interfaceFontFamily": "Arial,Inter",
+  "textFontFamily": "Libertinus Serif,Verdana,Inter",
+  "accentColor": "#3854a8",
+  "translucency": false,
+  "baseFontSizeAction": false
+}

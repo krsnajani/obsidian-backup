@@ -1,0 +1,17 @@
+---
+tags:
+  - blog
+---
+The documentary begins with the following scene: A brother-in-law (lets call him Mr. Hamza) is bought to Court, by his brother's widow (let's call her Ms. Noor) and her father for coercing her into marriage with him, after his brothers death. Hamza is primarily concerned that the actions of Noor were _inappropriate_ as they brought domestic quarels into public light. Though what he is really concerned about, is how the proceedings require the womenfolk of *his house* to sit in the company of  *‘strange men’*, as if staging their very own attack on the mores of purity which (he claims) inform the 'ethics of Islam'. 
+
+What was most interesting, though was the lingering subterranean anxiety around the *public-ness* of the 'Court' and its proceedings. That the Court in its search for the 'truth' will put to light deeply personal actions, and statements that should have ordinarily not crossed *his* doorstep, much less in assembly of 'strange men', where his actions actions would become fodder for social ridicule among his peers. 
+
+He is deeply concerned about the effect of providing women access to a Court. For him, doing so will enable women to roam freely rendering the men powerless. But what is most concerning is that such 'freedom' would not be a product of 'Americanised' justice systems, but rather of the same Shari'a that him and other supporters of the Taliban regime continue to uphold dearly. He is astonished by the capacity of the *Divine* to cause him such injustice. Seeing the suit deecreed in favour of his sister-in-law, by the maulvi, within the four corners of the Shari'a leads to an interesting form of 'resigned disagreement' or protest. He could not, but accept  the decision that now had the force of the Divine Sovereign behind it. There was no system of appeal. Because material justice calls for 'correction', divine justice is already perfect in any which way it manifests. 
+
+This leads to two rather interesting observations
+1. There is not only concern around the public-ness of the institution, but also around how religion morphs itself when exposed to the public-sphere. 
+2. Even in such rather 'archaic and primitive legal systems' (sic) anxieties around the 'counter-majoritarian' force of any law, even one as restrictive as the Shari'ah (the Taliban's interpretation) still persist. 
+
+What the the World would characterise as archaic and lawless, anxieties around the form and function of the law and judicial process remain virtually the same. We are for the most part concerned that the law presents a counter-majoritarian force which inadvertently erodes tradition and culture in its aftermath. Which further results into an anxiety around the intervention and penetration of law into parts of our existence which we choose to characterise as ‘private’. This I argue is the innate state of law.
+
+Even in Afghanistan where the ad-hoc Sharia of the Taliban reigns supreme, the law continues to stoke these primary anxieties insofar as it concerns its relationship with religion. If a deeply theocratic regime is unable to justify its religious credentials, how would ‘fair’ adjudication be possible in a country that claims to have a secular constitutional democracy.

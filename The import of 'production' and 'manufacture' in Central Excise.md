@@ -1,0 +1,31 @@
+---
+geometry: margin=1in
+mainfont: Verdana
+suppress-bibliography: "true"
+tags:
+  - central_excise
+  - tax_law
+---
+1.    Section 3 of the Central Excise Act, 1944 (hereinafter the Act) is the charging section which levies a duty of excise on all excisable goods which are ‘produced or manufactured’ in India. The words ‘manufactured’ and ‘produced’ are separated by a disjunctive ‘or’ implying that the Parliament specifically choose to use one in juxtaposition to the other. Failure to interpret both these words within their legal context would frustrate this manifest intention of the Legislature.
+
+2.    Pertinently, a Tariff Heading cannot conclusively define the factum of ‘manufacture’ or ‘production’. Whether the production process of a given commodity entails the levy of excise depends squarely on the tests developed by the Law Court’s in this respect. A change in a Tariff Heading implies merely a change in commercial nomenclature, rather than a change in the process of production. Therefore, products classified under Tariff Heading 24.01 as ‘unmanufactured tobacco’ could still constitute as ‘produced or manufactured’ for the purpose of Section 3 of the Excise Act.
+
+3.    Unlike ‘manufacture’ which finds a definition under Section 2(f) of the Act, the word ‘produced’ has no such definition, neither in the Act nor in any other fiscal legislation. This is primarily because the word eludes any exact legal definition owing to its enlarged scope. In this context, the Apex Court’s decision in **_N.C Buddharaja_** proves most instructive,[[1]](#_ftn1) which held (albeit in the context of the Income Tax Act) that while every manufacture could be characterized as ‘production’ every production need not amount to manufacture. The scope of ‘produced’ is thus larger and broader than that of ‘manufacture’
+
+4.     An early decision of the Allahabad High Court interpreted ‘produced’ under the Excise Act to mean ‘finished and semi-finished articles made from raw materials including’ including by-products, intermediate products or residual products created in the course of manufacturing particular goods.[[2]](#_ftn2) In the present context, it may be argued that even if crushed tobacco is produced as merely an intermediate product to be used further in the supply chain for creating manufactured tobacco variants, it becomes subject to an excise levy by virtue of being an intermediate commodity capable of being ‘produced’ if not manufactured.
+
+5.     Recently, in 2019 the Uttarakhand High Court in **_CCE v. Dujodwala Resins & Terpenes[**[3]**](#_ftn3)_** held that the word ‘produced’ must be understood as including products secured from natural elements by applying human endeavour. Therefore, in deciding whether oleo pine resin is subject to excise levy, the Court focussed on the application of ‘human endeavour’ for constituting ‘production’. Deciding the issue in the affirmative (of the levy of excise) the Court held that on account of involving ‘human endeavour’ for extracting natural elements, the resin is ‘produced’ and thus is subject to a levy of excise.
+
+6.    The emphasis on ‘human endeavour’ for the extraction and sale of ‘natural elements’ also finds favour in the decision of the Calcutta High Court in **_Aluminium Corp v. Coal Board_**,[[4]](#_ftn4) where the Court held that the mining of coal is tantamount to ‘production’ for the levy of excise. In deciding so, the Court held that while manufacture refers to turning raw material into something altogether different, the word produced refers to the application of human skill or labour in some form to make a material, even though it may be a natural product like coal ‘so long as it is fit for human consumption’.
+
+7.    In the present instance, while it may be argued that unmanufactured tobacco, does not tantamount to an ‘altogether different’ item for it involves merely the crushing and sieving of dried tobacco leaves, the position of the Calcutta, Allahabad and Uttarakhand High Court imply that so long as the process involves ‘human endeavour’ resulting in a commodity fir for human consumption in whichever form, it could fall within the ambit of ‘produced’ u/s 3 of the Act. As seen in the case of **_Dujodwala Resins_** (supra), even the mere collection of naturally occurring resin from the sap of trees into consumable product was subject to a levy of excise. Considering, the process involved in the production of unmanufactured tobacco, a view can be taken that such process in light of the aforementioned decisions, could be tantamount to ‘produced’ goods in the context of Section 3 of the Act.
+
+8.    Alternatively, the Allahabad High Court in **_Badri Prasad Prabha Shanker v. Sales Tax Commissioner_** has also held that the crushing and sieving of tobacco leaves amounts to manufacture.[[5]](#_ftn5) In accordance with the tests laid down by the Apex Court in **_Delhi Cloth Mills[**[6]**](#_ftn6)_** and **_South Bihar Sugar_**,[[7]](#_ftn7) the Court held that in order to constitute ‘manufacture’ the resultant product must become a different commercial article, with the distinct name character and use. Further, it was held that to constitute manufacture, the output need not undergo substantial change, so long as it remains marketable as a distinct commodity. Therefore, because crushed and sieved tobacco is a commercial distinct article, the process of its production amounts to manufacture. The position of the Allahabad High Court as yet remains uncontested and continues has been successively cited in various subsequent decisions, thereby strengthening its value as a precedent.
+
+9.    This decision permits an alternative view wherein the process undertaken to produce the subject goods (i.e. unmanufactured tobacco), amount to ‘manufacture’. In both scenarios, it would be imprudent to argue that the goods produced by the querist are _ab initio_ exempt from the levy of excise on account of falling outside the ambit of ‘produced or manufactured’ under Section 3 of the Act.
+
+  
+Oudh Sugar Mills Ltd. v. Union of India  (MANU/UP/0265/1981)
+
+## See
+- [[Patel Products - 'manufacturing' under Excise and GST]]

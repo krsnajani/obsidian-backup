@@ -1,0 +1,11 @@
+---
+aliases:
+  - "COOPERATIVE LEGISLATION AND ARTICLE 252: IMPLICATIONS FOR INDIAN FEDERALISM"
+tags: []
+title: "COOPERATIVE LEGISLATION AND ARTICLE 252: IMPLICATIONS FOR INDIAN FEDERALISM"
+doi: ""
+zotero: zotero://select/library/items/V6SHHK37
+bibliography:
+  - lib
+pdf: /Users/krishnajani/Library/CloudStorage/OneDrive-Personal/Attachments/COOPERATIVE LEGISLATION AND ARTICLE 252 IMPLICATIONS FOR INDIAN FEDERALISM.pdf
+---

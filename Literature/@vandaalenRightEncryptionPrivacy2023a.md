@@ -1,0 +1,20 @@
+---
+aliases:
+  - O.L. Van Daalen. Computer Law & Security Review. 2023
+  - "The right to encryption: Privacy as preventing unlawful access"
+tags: []
+title: "The right to encryption: Privacy as preventing unlawful access"
+authors:
+  - O.L. Van Daalen
+year: 2023
+journal: Computer Law & Security Review
+doi: https://doi.org/10.1016/j.clsr.2023.105804
+zotero: zotero://select/library/items/KUP8R623
+bibliography:
+  - lib
+pdf: /run/user/1000/gvfs/google-drive:host=gmail.com,user=krishnajani2005/0ACYl2aOru9R4Uk9PVA/1eA8Blb9i2beH4n5gkH1_aXgUJAP2ju4o/Van Daalen - 2023 - The right to encryption Privacy as preventing unlawful access.pdf
+---
+
+<!-- START_ABSTRACT -->
+Encryption technologies are a fundamental building block of modern digital infrastructure, but plans to curb these technologies continue to spring up. Even in the European Union, where their application is by now firmly embedded in legislation, lawmakers are again calling for measures which would impact these technologies. One of the most important arguments in this debate are human rights, most notably the rights to privacy and to freedom of expression. And although some authors have in the past explored how encryption technologies support human rights, this connection is not yet firmly grounded in an analysis of European human rights case law. This contribution aims to fill this gap, developing a framework for assessing restrictions of encryption technologies under the rights to privacy and freedom of expression as protected under the European Convention of Human Rights (the Convention) and the Charter of Fundamental rights in the European Union (the Charter). In the first section, the relevant function of encryption technologies, restricting access to information (called confidentiality), is discussed. In the second section, an overview of some governmental policies and practices impacting these technologies is provided. This continues with a discussion of the case law on the rights to privacy, data protection and freedom of expression, arguing that these rights are not only about ensuring lawful access by governments to protected information, but also about preventing unlawful access by others. And because encryption technologies are an important technology to reduce the risk of this unlawful access, it is then proposed that this risk is central to the assessment of governance measures in the field of encryption technologies. The article concludes by recommending that states perform an in-depth assessement of this when proposing new measures, and that courts when reviewing them also place the risk of unlawful access central to the analysis of interference and proportionality.
+<!-- END_ABSTRACT -->

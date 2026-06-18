@@ -1,0 +1,30 @@
+{
+  "jsonPaths": [
+    "templates/lib.json"
+  ],
+  "jsonNames": [
+    ""
+  ],
+  "folderPath": "Literature",
+  "includeAuthorTag": false,
+  "includeJournalTag": false,
+  "includeBibliography": true,
+  "optionalFields": "title",
+  "includeAbstract": true,
+  "templatePath": "",
+  "autoAddCitations": true,
+  "autoSyncCitations": true,
+  "autoUpdateCitations": true,
+  "mergeStrategies": {},
+  "showBaseProperties": false,
+  "jsonUpdatedTimes": {
+    "templates/Library.json": 1781086484900,
+    "templates/lib.json": 1781705916752
+  },
+  "inputPandocPath": "/opt/homebrew/pandoc",
+  "pandocOutputPath": "/Users/krishnajani/Documents/",
+  "pandocArgs": "-f markdown+hard_line_breaks",
+  "includeBbtPdf": true,
+  "includeBbtCollections": true,
+  "pdfimagesPath": ""
+}

@@ -1,0 +1,12 @@
+---
+aliases:
+  - INTRODUCTION LAWS OF INTESTATE AND TESTAMENTARY SUCCESSION IN INDIA
+tags: []
+title: INTRODUCTION LAWS OF INTESTATE AND TESTAMENTARY SUCCESSION IN INDIA
+year: 2025
+doi: ""
+zotero: zotero://select/library/items/IBYXFIY3
+bibliography:
+  - lib
+pdf: /home/kjani/Downloads/Law (Theory)/2025 - INTRODUCTION LAWS OF INTESTATE AND TESTAMENTARY SUCCESSION IN INDIA.pdf
+---
