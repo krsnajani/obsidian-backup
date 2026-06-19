@@ -1,6 +1,6 @@
 ---
 geometry: margin=1in
-mainfont: Verdana
+mainfont: Libertinus Serif
 suppress-bibliography: "true"
 tags:
   - tax_law
