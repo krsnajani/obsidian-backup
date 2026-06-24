@@ -9,6 +9,7 @@ zotero: zotero://select/library/items/ZUWSF9XM
 bibliography:
   - lib
 ---
+
 ## Position of the Tribunal
 
 Thus it is discernible that what is to be compared under this method is profit from a comparable uncontrolled transaction. The word 'comparable' may encompass internal comparable or external comparable. There is cue in the rule itself as to preference to be given to internal comparable uncontrolled transactions vis-a-vis externally comparable uncontrolled transactions. It is because the delegated Legislature has firstly referred to the net profit margin realized by the enterprise (internal) from a comparable uncontrolled transaction and, thereafter, it points towards net profit margin realized by an unrelated enterprise (external) from a comparable uncontrolled transaction. 

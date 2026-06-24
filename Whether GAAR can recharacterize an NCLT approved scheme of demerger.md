@@ -5,8 +5,10 @@ suppress-bibliography: "true"
 tags:
   - case_law
   - tax_law
+aliases:
+  - Hinduja Demeger
 ---
-The follow issue has arisen in respect of a [[demerger]] of NXTDIGITAL into Hinduja Global Solutions Ltd.  ([[Scheme of the Hinduja Demerger.canvas |see Scheme]])
+The following issue has arisen in respect of a [[demerger]] of NXTDIGITAL into Hinduja Global Solutions Ltd.  ([[Scheme of the Hinduja Demerger.canvas |see Scheme]])
 
 > Note : In so far as T-3 is concerned, there is a distinction between a demerger and a slump sale. T-2 is a [[slump sale]] where the healthcare division has been acquired for cash, whereas T-3 is a demerger whereby there is no "consideration" in the transaction per se, but HGS has issued shares to the shareholders in NXTDIGITAL
 
