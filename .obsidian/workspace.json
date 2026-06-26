@@ -11,10 +11,14 @@
             "id": "387b67e077a40457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Seimens Note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Seimens Note"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6c63ec8bb256c64",
@@ -93,6 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "The Seimens Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.63671875
+    "width": 398.63671875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +243,13 @@
   },
   "active": "387b67e077a40457",
   "lastOpenFiles": [
+    "The Seimens Note.pdf",
+    "Seimens Note.pdf",
+    "toPdfViaTempFile20377-0.typ",
+    "toPdfViaTempFile20377-1.pdf",
+    "media-13d3fe2a24e4c8bf",
+    "Literature/@crawfordConstructionStatutesIncluding1940.md",
+    "Literature/@crawfordConstructionStatutes.md",
     "The Seimens Note.md",
     "Ken Loo Ong gives a Singaporean perspective on Tiger Global and Tax Avoidance.md",
     "toPdfViaTempFile50970-0.typ",
@@ -244,10 +258,6 @@
     "LAMO.pdf",
     "toPdfViaTempFile50780-0.typ",
     "toPdfViaTempFile50780-1.pdf",
-    "media-3227f2af318b22c7",
-    "Tiger Global Singapore.pdf",
-    "toPdfViaTempFile50612-0.typ",
-    "toPdfViaTempFile50612-1.pdf",
     "Literature/@justicer.mahadevanAuthorityAdvanceRulings2026.md",
     "Seema Kejeriwal lectures on Tiger Global and the future of investment.md",
     "Whether GAAR can recharacterize an NCLT approved scheme of demerger.md",
@@ -270,9 +280,6 @@
     "AMP Dossier.md",
     "Literature/@justicesanjivkhannaSonyEricssonMobile2025.md",
     "Daily/19-06-2026.md",
-    "Daily/18-06-2026.md",
-    "Daily/17-06-2026.md",
-    "Daily/16-06-2026.md",
     "Canvas/Quantum Computing.canvas",
     "img/Pasted image 20250620070513.png"
   ]
